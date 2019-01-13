@@ -7,7 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
+  margin: 2em 0;
   font-family: Helvetica, Arial, sans-serif;
   background-image: none;
   background-size: cover;
@@ -53,7 +53,7 @@ img {
 
 .key {
 	flex-basis: 70px;
-	margin: 10px;
+	margin: 6px;
 	padding: 10px;
 	border: 2px solid #ececec;
 	border-radius: 2px;
