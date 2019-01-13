@@ -1,0 +1,158 @@
+[
+  {
+    "keycode" : 81,
+    "letter": "q",
+    "label": "quite",
+    "audioFile": "quite"
+  },
+  {
+    "keycode" : 87,
+    "letter":"w",
+    "label": "wesley",
+    "audioFile": "wesley"
+  },
+  {
+    "keycode" : 69,
+    "letter":"e",
+    "label": "el",
+    "audioFile": "elizabeth"
+  },
+  {
+    "keycode" : 82,
+    "letter":"r",
+    "label": "run",
+    "audioFile": "runrunrun"
+  },
+  {
+    "keycode" : 84,
+    "letter":"t",
+    "label": "train",
+    "audioFile": "train"
+  },
+  {
+    "keycode" : 89,
+    "letter":"y",
+    "label": "yes",
+    "audioFile": "yes"
+  },
+  {
+    "keycode" : 85,
+    "letter":"u",
+    "label": "underwear",
+    "audioFile": "underwear"
+  },
+  {
+    "keycode" : 73,
+    "letter":"i",
+    "label": "ice cream",
+    "audioFile": "icecream"
+  },
+  {
+    "keycode" : 79,
+    "letter": "o",
+    "label": "oh my gosh",
+    "audioFile": "ohmygosh"
+  },
+  {
+    "keycode" : 80,
+    "letter": "p",
+    "label": "purple monster",
+    "audioFile": "purplemonster"
+  },
+  {
+    "keycode" : 65,
+    "letter": "a",
+    "label": "apple",
+    "audioFile": "apple"
+  },
+  {
+    "keycode" : 83,
+    "letter": "s",
+    "label": "shindelar",
+    "audioFile": "shindelar"
+  },
+  {
+    "keycode" : 68,
+    "letter": "d",
+    "label": "dad",
+    "audioFile": "dad"
+  },
+  {
+    "keycode" : 70,
+    "letter":"f",
+    "label": "fart",
+    "audioFile": "fart"
+  },
+  {
+    "keycode" : 71,
+    "letter":"g",
+    "label": "gulump",
+    "audioFile": "gulump"
+  },
+  {
+    "keycode" : 72,
+    "letter":"h",
+    "label": "hoomoo",
+    "audioFile": "hoomooneenee"
+  },
+  {
+    "keycode" : 74,
+    "letter":"j",
+    "label": "jack",
+    "audioFile": "jack"
+  },
+  {
+    "keycode" : 75,
+    "letter":"k",
+    "label": "kitty",
+    "audioFile": "kittybunnyjack"
+  },
+  {
+    "keycode" : 76,
+    "letter":"l",
+    "label": "little",
+    "audioFile": "littleshoppingcart"
+  },
+  {
+    "keycode" : 90,
+    "letter":"z",
+    "label": "ziggy",
+    "audioFile": "ziggy"
+  },
+  {
+    "keycode" : 88,
+    "letter":"x",
+    "label": "x",
+    "audioFile": "x"
+  },
+  {
+    "keycode" : 67,
+    "letter":"c",
+    "label": "choo choo",
+    "audioFile": "chugga"
+  },
+  {
+    "keycode" : 86,
+    "letter":"v",
+    "label": "good",
+    "audioFile": "verygood"
+  },
+  {
+    "keycode" : 66,
+    "letter": "b",
+    "label": "booty",
+    "audioFile": "booty"
+  },
+  {
+    "keycode" : 78,
+    "letter": "n",
+    "label": "no",
+    "audioFile": "no2"
+  },
+  {
+    "keycode" : 77,
+    "letter":"m",
+    "label": "mom",
+    "audioFile": "mom"
+  }
+]
